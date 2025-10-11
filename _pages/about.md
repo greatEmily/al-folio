@@ -25,8 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m **Emily Duran** —an aspiring web developer, content creator, and endurance athlete based in Texas. I thrive on building structured workflows that balance creative output with long-distance running and technical problem-solving.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Whether I’m trying to learn to code my dream app or learning how to fuel and train for my next race, I approach every challenge with adaptability, clarity, and a growth mindset. My current goals include running a full marathon in March 2026, completing a half marathon milestone this December, and evolving my GitHub Pages site into a polished, accessible hub for my work and ideas.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m passionate about:
+- **Running & Triathlon training**, learning new things with each mile that passes
+- **Web development**, with a focus on clean, maintainable design
+- **Content creation**, integrating filming into daily routines
+
+I believe in iterative progress, honest problem-solving, and routines that support both physical and creative endurance. Thanks for visiting - I’m always building something new.
